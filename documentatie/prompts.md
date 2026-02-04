@@ -1,5 +1,29 @@
 # prompts
 
+## User stories genereren
+Maak minimaal 8 user stories voor een Call of Duty Zombies-achtige game.
+Gebruik exact dit formaat:
+“Als [gebruiker] wil ik [actie] zodat [waarde]”.
+Voeg per story een prioriteit toe (must/nice).
+Zorg dat de stories gaan over: waves, zombies, punten, deuren openen, barricades repareren, wall buy wapens en ammo.
+
+## Acceptatiecriteria genereren
+Maak voor elke user story 4 tot 6 acceptatiecriteria in bulletpoints.
+Criteria moeten concreet en testbaar zijn.
+Gebruik simpele taal en focus op wat het systeem moet doen.
+
+## Prioriteiten bepalen
+Classificeer elke user story als “must” of “nice”.
+Must = nodig om de core gameplay te laten werken.
+Nice = extra features die niet nodig zijn om de basis te spelen.
+
+## maken van design document
+Maak een kort project document voor een zombies game. met een paar dingen dat het moet bevatten:
+- tech stack waarvoor ik unity gebruik
+- globale architectuur
+- belangrijke keuzes
+- bekende risico's
+
 ## creatie van de volgende 2 prompts
 maak een prompt voor een soort gelijke call of duty zombies game. met deuren die geopend kunnen worden met geld, muren waar zombies doorheen kunnen komen om de arena binnen te gaan, je character dat de muren kunnen repareren of de deuren kunnen openen maar ook de zombies neer kunnen schieten en geweren kunnen kopen vanaf verschillende paywalls
 
