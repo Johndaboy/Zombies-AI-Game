@@ -2,8 +2,10 @@
 
 ## dag 3
 #### wat ga ik morgen verder bouwen?
+de zombie AI
 
 #### waar liep ik tegenaan vandaag?
+het laten bewegen van de zombies
 
 #### waar hielp AI het meest bij vandaag?
 de planning maken en de user stories opstellen.
@@ -11,6 +13,7 @@ de planning maken en de user stories opstellen.
 ## dag 4
 #### wat ga ik morgen verder bouwen?
 de barricades fixen
+
 #### waar liep ik tegenaan vandaag?
 de barricades bouwen in de game
 
